@@ -12,3 +12,6 @@ I've developed my own website called '𝗧𝗮𝗺𝗶𝗹𝗠𝗼𝘃𝗶𝗲�
 
 #### Daily at 07:26 PM my bot will run automatically and do the above mentioned work 𝙬𝙞𝙩𝙝𝙤𝙪𝙩 𝙖𝙣𝙮 𝙝𝙪𝙢𝙖𝙣 𝙞𝙣𝙩𝙚𝙧𝙫𝙚𝙣𝙩𝙞𝙤𝙣. Here I included the demo video of that bot.
 video link : https://youtu.be/jmg3mcGEAaA
+
+## Architecture diagram
+![architecture diagram](https://user-images.githubusercontent.com/75019244/204228941-365296ca-7e89-4c0a-a224-a170a5b6fcbe.png)
